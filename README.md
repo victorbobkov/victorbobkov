@@ -3,7 +3,8 @@
 ### ⚙️ Technologies & Tools 
 
 ### 📈 GitHub Stats
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorbobkov&theme=<THEME_NAME>" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorbobkov&theme=buefy" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/index/?username=victorbobkov&theme=buefy" />
 
 <!--
 **victorbobkov/victorbobkov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
