@@ -11,9 +11,22 @@ I'm Victor. I like coding, video games and boy do I love winter.
 
 
 ### 📈 GitHub Stats
+<div>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorbobkov&theme=material-palenight" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/index/?username=victorbobkov&theme=material-palenight" />
+</div>
+  
+<!-- Actual text -->
 
+### You can find me on [![Telegram][1.2]][1]
+
+<!-- Icons -->
+
+[1.2]: https://i.imgur.com/KJLx3oG.png (telegram icon)
+
+<!-- Links to your social media accounts -->
+
+[1]: https://t.me/victorbobkov
 <!--
 **victorbobkov/victorbobkov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
