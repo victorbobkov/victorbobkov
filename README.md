@@ -11,9 +11,10 @@ I'm Victor. I like coding, video games and boy do I love winter.
 
 
 ### 📈 GitHub Stats
-<div>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorbobkov&theme=material-palenight" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/index/?username=victorbobkov&theme=material-palenight" />
+<div style="display: flex; flex-direction: row;">
+<img align="center" style="height:270px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorbobkov&theme=material-palenight" />
+<img align="center" style="height:270px;" src="https://github-readme-stats.vercel.app/api/index/?username=victorbobkov&theme=material-palenight" />
+<!--   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=victorbobkov&repo=fast-company&theme=material-palenight" /> -->
 </div>
   
 <!-- Actual text -->
