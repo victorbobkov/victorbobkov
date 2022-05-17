@@ -9,7 +9,7 @@ I'm Victor. I like coding, video games and boy do I love winter.
 ![](https://img.shields.io/badge/Code-NodeJS-informational?style=flat&logo=Node.js&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/Code-Express-informational?style=flat&logo=Express&logoColor=white&color=blueviolet)
 
-
+<!-- 
 ### 📈 GitHub Stats
 <div style="display: flex; flex-direction: row;">
 <img align="center" style="height:230px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorbobkov&theme=material-palenight" />
